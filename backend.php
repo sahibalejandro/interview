@@ -1,8 +1,8 @@
 <?php
 /**
- * 1) Implementar Authenticatable en la clase User.
+ * 1) Implementar la interfaz Authenticatable en la clase User.
  * 2) Crear una instancia de User.
- * 3) Revisar que el código no tenga errores de syntaxis.
+ * El código no debe tener errores de sintaxis.
  */
 
 interface Authenticatable

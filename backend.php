@@ -2,7 +2,7 @@
 /**
  * 1) Implementar la interfaz Authenticatable en la clase User.
  * 2) Crear una instancia de User.
- * El código no debe tener errores de sintaxis.
+ * 3) Encontrar y corregir los errores de sintaxis.
  */
 
 interface Authenticatable
